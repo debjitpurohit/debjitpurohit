@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **debjit.shilpi@gmail.com**
 
-- ⚡ Fun fact **I am in first year of my college**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
