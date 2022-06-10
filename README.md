@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjitpurohit&label=Profile%20views&color=0e75b6&style=flat" alt="debjitpurohit" /> </p>
 
-- 🌱 I’m currently learning **Python, CSS,Js , React.js,**
+- 🌱 I’m currently learning **Python, CSS,Js , React.js, C++**
 
 - 👨‍💻 All of my projects are available at [https://debjitpurohit.github.io/Debjits-World/](https://debjitpurohit.github.io/Debjits-World/)
 
