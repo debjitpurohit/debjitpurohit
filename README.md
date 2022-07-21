@@ -26,7 +26,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjitpurohit&show_icons=true&locale=en&layout=compact" alt="debjitpurohit" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjitpurohit&show_icons=true&locale=en" alt="debjitpurohit" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjitpurohit&" alt="debjitpurohit" /></p>
 
