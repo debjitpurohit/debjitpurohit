@@ -12,7 +12,7 @@
 - 📫 How to reach me **debjit.shilpi@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/debjitpurohit9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debjitpurohit9" height="30" width="40" /></a>
@@ -27,10 +27,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjitpurohit&show_icons=true&locale=en&layout=compact" alt="debjitpurohit" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjitpurohit&show_icons=true&locale=en" alt="debjitpurohit" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=debjitpurohit&show_icons=true&locale=en" alt="debjitpurohit" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjitpurohit&" alt="debjitpurohit" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=debjitpurohit&" alt="debjitpurohit" /></p>
 
 
