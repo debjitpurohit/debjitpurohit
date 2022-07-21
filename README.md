@@ -12,7 +12,7 @@
 - 📫 How to reach me **debjit.shilpi@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/debjitpurohit9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debjitpurohit9" height="30" width="40" /></a>
