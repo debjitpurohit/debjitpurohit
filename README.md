@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Developer from West Bengal [India]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjitpurohit&label=Profile%20views&color=0e75b6&style=flat" alt="debjitpurohit" /> </p>
-[![@debjitpurohit's Holopin board](https://holopin.io/api/user/board?user=debjitpurohit)](https://holopin.io/@debjitpurohit)
 - 🌱 I’m currently learning **Python, CSS,Js , React.js, C++**
 
 - 👨‍💻 All of my projects are available at [https://debjitpurohit.github.io/Debjits-World/](https://debjitpurohit.github.io/Debjits-World/)
