@@ -30,5 +30,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjitpurohit&show_icons=true&locale=en&theme=tokyonight" alt="debjitpurohit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjitpurohit&&theme=tokyonight" alt="debjitpurohit" /></p>
+<h3 align="left">Snake Eating my Contribution</h3>
+<p><img align="center" src="https://github.com/debjitpurohit/debjitpurohit/blob/output/github-contribution-grid-snake.gif" alt="debjitpurohit" /></p>
+
+
+
 <p><img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
+
 
