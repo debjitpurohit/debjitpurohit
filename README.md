@@ -25,7 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjitpurohit&show_icons=true&locale=en&layout=compact" alt="debjitpurohit" /></p>
 <br>
-
+[![DEBJIT's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=debjitpurohit&&theme=xcode)](https://github.com/debjitpurohit)
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjitpurohit&show_icons=true&locale=en" alt="debjitpurohit" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjitpurohit&" alt="debjitpurohit" /></p>
