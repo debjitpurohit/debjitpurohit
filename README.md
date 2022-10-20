@@ -31,7 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjitpurohit&show_icons=true&locale=en&theme=tokyonight" alt="debjitpurohit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjitpurohit&&theme=tokyonight" alt="debjitpurohit" /></p>
 <h3 align="left">Snake Eating my Contribution</h3>
-<p><img align="center" src="https://github.com/debjitpurohit/debjitpurohit/blob/output/github-contribution-grid-snake.gif" alt="debjitpurohit" /></p>
+<p><img align="center" src="https://github.com/debjitpurohit/debjitpurohit/blob/output/github-contribution-grid-snake.svg" alt="debjitpurohit" /></p>
 
 
 
