@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" target="https://debjitpurohit.github.io/Debjits-World/" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width:1000px ; height:380px " data-target="https://debjitpurohit.github.io/Debjits-World/">
+<img align="center" alt="Coding" target="https://debjitpurohit.github.io/Debjits-World/" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width: 1000px ; height:350px " data-target="https://debjitpurohit.github.io/Debjits-World/">
 <h1 align="center">Hi 👋, I'm Debjit Purohit</h1>
 <h3 align="center">A passionate Developer from West Bengal [India]</h3>
 
